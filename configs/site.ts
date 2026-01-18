@@ -1,12 +1,12 @@
 import { SiteConfig } from "../types";
 
 export const siteConfig: SiteConfig = {
-  name: "Bibles",
-  description: "A modern Bible study tool built with Next.js and shadcn/ui.",
-  url: "https://tx.shadcn.com",
-  ogImage: "https://tx.shadcn.com/og.jpg",
+  name: "Kinh Thánh",
+  description: "Trang web đọc Kinh Thánh Công Giáo tiếng Việt trực tuyến",
+  url: "https://kinhthanh.com",
+  ogImage: "https://kinhthanh.com/og.jpg",
   links: {
-    twitter: "https://twitter.com/shadcn",
-    github: "https://github.com/shadcn/taxonomy",
+    twitter: "https://twitter.com/kinhthanh",
+    github: "https://github.com/kinhthanh",
   },
 };
